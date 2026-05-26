@@ -1,5 +1,7 @@
 # Godot 4+ specific ignores
 .godot/
+build
+android
 # *.exe
 # *.apk
 # *.x86_64
@@ -7,3 +9,4 @@
 # *.zip
 # *.pck
 # *.idsig
+
